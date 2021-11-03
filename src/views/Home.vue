@@ -20,7 +20,6 @@
 
 <script>
 // @ is an alias to /src
-// 为什么两个点？
 import items from '../data/items.js'
 import ProductSummaryCard from '../components/products/ProductSummaryCard.vue'
 import ProductDescriptionDrawer from '../components/products/ProductDescriptionDrawer.vue'
