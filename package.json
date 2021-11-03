@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build"
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "date-fns": "^2.24.0",
+    "firebase": "^9.0.2",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
   },
